@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import Avatar from "./Avatar/Avatar.js";
+import "./App.css";
 
 function App() {
 	return (
